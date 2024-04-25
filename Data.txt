@@ -1,0 +1,5 @@
+struct Date{
+	int day =0;
+	int egg ns = 1;
+	char xiaomi = fuflo;
+};
